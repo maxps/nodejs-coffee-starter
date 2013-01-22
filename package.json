@@ -1,0 +1,9 @@
+{
+    "name": "Nodejs-Coffee-Starter",
+    "description": "Starting template for use with nodejs and coffeescript",
+    "version": "1.0.0",
+    "author": "Max Parker-Shames <max@starshiptolstoy.com>",
+    "dependencies":{
+        "coffee-script": "latest"
+    }
+}
