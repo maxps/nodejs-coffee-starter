@@ -24,7 +24,7 @@ app.configure ->
     app.use app.router
     app.use express.static '../public'
 
-routes = require('./routes') app,db,auth
+routes = require('./routes') app
 
 app.listen config.port
 ###
